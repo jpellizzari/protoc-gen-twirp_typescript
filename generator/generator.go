@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github/jpellizzari/protoc-gen-twirp_typescript/generator/minimal"
-	"github/jpellizzari/protoc-gen-twirp_typescript/generator/pbjs"
+	"github.com/jpellizzari/protoc-gen-twirp_typescript/generator/minimal"
+	"github.com/jpellizzari/protoc-gen-twirp_typescript/generator/pbjs"
 
 	"github.com/golang/protobuf/protoc-gen-go/descriptor"
 	plugin "github.com/golang/protobuf/protoc-gen-go/plugin"
